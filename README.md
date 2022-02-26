@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Afsharfateme
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning front end
-- 💞️ I’m looking to collaborate on project
+- 💞️ I’m looking for collaborate on project
 
 
 <!---
